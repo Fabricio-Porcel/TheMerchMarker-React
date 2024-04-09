@@ -26,7 +26,7 @@ function ProductDetail () {
         <div className="container">
         <div className="row">
             <div className="col">
-                <h1 className="h3 mb-2 text-gray-800">Detalle del Usuario</h1>
+                <h1 className="h3 mb-2 text-gray-800">Detalle del Producto</h1>
             </div>
         </div>
         <div className="row">
